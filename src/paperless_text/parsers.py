@@ -7,7 +7,6 @@ from PIL import ImageFont
 
 from documents.parsers import DocumentParser
 
-
 class TextDocumentParser(DocumentParser):
     """
     This parser directly parses a text document (.txt, .md, or .csv)

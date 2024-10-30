@@ -1,4 +1,4 @@
-[[source]]
+docker/compose/docker-compose.sqlite.yml[[source]]
 url = "https://pypi.python.org/simple"
 verify_ssl = true
 name = "pypi"
